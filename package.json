@@ -1,0 +1,29 @@
+{
+  "name": "khtplugin",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anleyn/khtplugin.git#main"
+  },
+  "author": "Andrey Khudoley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anleyn/khtplugin/issues"
+  },
+  "homepage": "https://github.com/anleyn/khtplugin/tree/main#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
